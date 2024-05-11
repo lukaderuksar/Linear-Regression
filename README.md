@@ -1,2 +1,4 @@
 # Linear-Regression
 This project develops a linear regression model to predict used car prices based on various car features. After initial data cleaning and handling of missing values, exploratory data analysis (EDA) was performed to understand the data distribution and relationships between variables. Key features influencing car prices, such as car brand, model, and technical specifications, were engineered. The model was refined by addressing outliers, checking regression assumptions, and applying techniques like Ridge and Lasso for regularization. The final regression model, validated using statistical methods, demonstrated strong predictive performance with an Adjusted R-squared of 0.951, effectively capturing the primary factors that influence used car prices.
+
+The dataset can be downloaded from Kaggle https://www.kaggle.com/code/dscodingp19/cars4u-project-using-linear-regression/input.
